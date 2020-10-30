@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/code/SP/.vs/SP
+/code/SP/SP.Api/obj
+/code/SP/SP.Client/obj
+/code/SP/SP.Idp/bin/Debug/net5.0
+/code/SP/SP.Idp/obj
