@@ -7,3 +7,6 @@
 /code/SP/SP.Client/obj
 /code/SP/SP.Idp/bin/Debug/net5.0
 /code/SP/SP.Idp/obj
+/code/SP/SP.Apitest/obj
+/code/SP/SP.Web/bin/Debug/net5.0
+/code/SP/SP.Web/obj
